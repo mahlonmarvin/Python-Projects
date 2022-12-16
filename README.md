@@ -1,1 +1,1 @@
-My first readme
+my first study case using python
